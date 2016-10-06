@@ -1,0 +1,6 @@
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Arrays1Func\bin\Debug\Arrays1Func.exe.config
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Arrays1Func\bin\Debug\Arrays1Func.exe
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Arrays1Func\bin\Debug\Arrays1Func.pdb
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Arrays1Func\obj\Debug\Arrays1Func.csprojResolveAssemblyReference.cache
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Arrays1Func\obj\Debug\Arrays1Func.exe
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Arrays1Func\obj\Debug\Arrays1Func.pdb

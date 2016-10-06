@@ -1,0 +1,6 @@
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Task2\bin\Debug\Task2.exe.config
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Task2\bin\Debug\Task2.exe
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Task2\bin\Debug\Task2.pdb
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Task2\obj\Debug\Task2.exe
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Task2\obj\Debug\Task2.pdb
+C:\Users\Маринка\Desktop\ISM\ISM1DArrays1\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
